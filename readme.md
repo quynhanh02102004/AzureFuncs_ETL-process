@@ -67,13 +67,6 @@ A robust logging system is implemented across all three Azure Functions:
 *   **Error handling:** Detailed error information is captured in logs.
 *   **Consistent Log Structure:** The `function_logs` table records both successful and failed operations from all functions.
 
-### Load data using Power Automate
-
-Power Automate is used to refresh the Power BI dataset automatically.
-*   A pre-built template triggers when a new item is created in the SQL Server Gold layer tables (Dim and Fact).
-*   The "Add rows to a dataset in Power BI" component updates the Power BI dataset by mapping columns from SQL Database.
-*   Mobile notifications provide real-time alerts on pipeline runs.
-
 ## DATA VISUALIZATION
 
 ### Data Modeling (in Power BI)
