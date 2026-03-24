@@ -2,6 +2,8 @@
 
 This project outlines the development of an end-to-end, cloud-based Business Intelligence (BI) system using Microsoft Azure to analyze UK traffic accident data. The system focuses on data warehousing, automated ETL processes, and interactive data visualization.
 
+<img width="1844" height="886" alt="{734D0E35-1A72-42C6-AA0F-6E093A7EC6D8}" src="https://github.com/user-attachments/assets/471b5f03-7122-4711-9424-4270911b5416" />
+
 
 ## DATA PREPARATION AND DATA MODELING
 
